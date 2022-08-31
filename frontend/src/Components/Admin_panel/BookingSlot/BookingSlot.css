@@ -1,0 +1,45 @@
+.main{
+    overflow-x: scroll !important;
+}
+.main::-webkit-scrollbar{
+    display: none;
+}
+.main2{
+    width: 1280px;
+    /* overflow-x: scroll !important; */
+}
+.hrline{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    height: 2px;
+    background-color: grey;
+}
+.boxdown1{
+    margin: 2%;
+    width: 23%;
+    height: fit-content;
+    
+    
+}
+.boxdown2{
+    margin: 2%;
+    width: 23%;
+    height: fit-content;
+}
+.boxdown3{
+    margin: 2%;
+    width: 23%;
+    height: fit-content;
+}
+.boxdown4{
+    margin: 2%;
+    width: 23%;
+    height: fit-content;
+}
+.divider{
+    width: 2px;
+    background-color: grey;
+}
+.paper:hover{
+    background-color: #b2ff94;
+}

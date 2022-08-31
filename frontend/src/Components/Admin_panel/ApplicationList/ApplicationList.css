@@ -1,0 +1,9 @@
+ 
+.row_posters {
+    overflow-y: hidden !important;
+    overflow-x: scroll !important;
+   /* padding: 20px;*/
+}
+.row_posters::-webkit-scrollbar {
+    display: none;
+}

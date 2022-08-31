@@ -1,0 +1,32 @@
+.Box{
+    margin: auto;
+    width: 60%;
+    height: fit-content;
+    background-color: rgba(250, 172, 71, 0.411);
+    margin-top: 4%;
+    margin-bottom: 4%;
+    padding: 3%;
+}
+
+/* .Header{
+    margin: auto;
+} */
+.any{
+    background-color: red;
+    width: auto;
+    height: auto;
+    padding: 7%;
+}
+.next{
+    float: right;
+    cursor: pointer;
+    margin-right: 2%;
+}
+.radio{
+    margin-top: 1%;
+}
+.button{
+  width: 12%;
+  height: 110%; 
+  float: right;
+}
